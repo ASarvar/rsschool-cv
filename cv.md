@@ -54,3 +54,20 @@
         </div>
     </footer>
 
+## Experience
+1. Website Fast Food chain Les Ailes (https://lesailes.uz)
+1. Project Library App (https://github.com/ASarvar/libraryapp)
+
+## Education
+* Inha Unversity In Tashkent
+* Personal Development Process Academy Fullstack Web Developer course
+* Build Responsive Real World Websites with HTML5 and CSS3 course on (https://www.udemy.com)
+* Advanced CSS and Sass: Flexbox, Grid, Animations and More! courseon (https://www.udemy.com)
+
+
+## English
+
+* IELTS certificate 5.5 band in 2013
+* Self-learning from website [Spotlight](https://spotlightenglish.com)
+* Videos everyday from [TED] (https://www.ted.com/#/)
+
