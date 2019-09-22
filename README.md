@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[Sarvar Alibekov CV](https://github.com/ASarvar/rsschool-cv/cv)
+[Sarvar Alibekov CV](https://asarvar.github.io/rsschool-cv/cv)
